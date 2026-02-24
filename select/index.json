@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hard to Say I'm Sorry / Get Away (2006 Remaster)",
+  "base_artist": "Chicago",
+  "createdAt": "2026-02-24T14:19:40.868451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/01_Hard_to_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Aquagen",
+      "has_synced": true,
+      "path": "select/02_Hard_To_Say_I'm_Sorry_Aquagen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/03_Hard_to_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/04_Hard_to_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hard  to say I'm sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/05_Hard_to_say_I'm_sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/06_Hard_to_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/07_Hard_To_Say_I'm_Sorry_Westlife.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Aquagen",
+      "has_synced": true,
+      "path": "select/08_Hard_to_Say_I'm_Sorry_Aquagen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/09_Hard_to_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard To Say I'M Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/10_Hard_To_Say_I'M_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Aquagen",
+      "has_synced": true,
+      "path": "select/11_Hard_to_Say_I'm_Sorry_Aquagen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hard To Say Im Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/12_Hard_To_Say_Im_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/13_Hard_To_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/14_Hard_To_Say_I'm_Sorry_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/15_Hard_To_Say_I'm_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hard to Say I’m Sorry",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/16_Hard_to_Say_I’m_Sorry_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hard to Say I'm Sorry",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/17_Hard_to_Say_I'm_Sorry_Westlife.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/pl_01_Hard_To_Say_I'm_Sorry_Chicago.txt"
+    }
+  ]
+}
